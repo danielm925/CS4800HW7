@@ -1,0 +1,16 @@
+H,Arial,Red,12
+e,Calibri,Blue,14
+l,Verdana,Black,16
+l,Arial,Red,12
+o,Calibri,Blue,14
+W,Verdana,Black,16
+o,Arial,Red,12
+r,Calibri,Blue,14
+l,Verdana,Black,16
+d,Arial,Red,12
+C,Verdana,Black,16
+S,Arial,Red,12
+5,Calibri,Blue,14
+8,Verdana,Black,16
+0,Arial,Red,12
+0,Calibri,Blue,14
